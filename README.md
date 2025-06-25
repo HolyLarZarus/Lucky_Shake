@@ -35,3 +35,7 @@ iOS (macOS only):
     flutter run
 
 ⚠️ Ensure you have an emulator or physical device connected. Flutter will auto-detect it.
+
+## 📄 License
+This project is open-source under the MIT License. See the LICENSE file for details.
+
