@@ -1,16 +1,37 @@
-# lucky_shake_clean_final
+# 🎲 Lucky Shake
 
-A new Flutter project.
+**Lucky Shake** is a fun Flutter app that generates random numbers when you shake your device—perfect for choosing lotto numbers, picking winners, or making unbiased decisions!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 What It Does
 
-A few resources to get you started if this is your first Flutter project:
+- **Shake-to-generate**: Simply shake your phone to generate a set of random numbers.
+- **Configurable sets**: Choose presets (e.g., 6 out of 49) or define your own number count and range.
+- **Cross-platform**: Works on both Android and iOS using Flutter.
+- **Haptic feedback**: Provides optional vibration when numbers are generated.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Installation & Running
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/HolyLarZarus/Lucky_Shake.git
+   cd Lucky_Shake
+
+2. **Install dependencies**
+    ```bash
+    flutter pub get
+
+3. **Run the app**
+
+Android:
+    ```bash
+    flutter run
+
+iOS (macOS only):
+    ```bash
+    flutter run
+
+⚠️ Ensure you have an emulator or physical device connected. Flutter will auto-detect it.
