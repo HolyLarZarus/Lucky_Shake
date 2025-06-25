@@ -8,7 +8,7 @@
 
 - **Shake-to-generate**: Simply shake your phone to generate a Luck Cookie text.
 - **Configurable sets**: There are over 300 million possible texts (see "sprüche.dart" for more details).
-- **Cross-platform**: Works on both Android, iOS, Web and Desktop using Flutter.
+- **Cross-platform**: Works on Android, iOS, Web, and Desktop using Flutter.
 ---
 
 ## 🛠️ Installation & Running
