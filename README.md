@@ -1,6 +1,6 @@
 # 🎲 Lucky Shake
 
-**Lucky Shake** is a fun Flutter app that generates random numbers when you shake your device—perfect for choosing lotto numbers, picking winners, or making unbiased decisions!
+**Lucky Shake** is a fun Flutter app that generates random Luck Cookie texts when you shake your device—perfect for choosing lotto numbers, picking winners, or making unbiased decisions!
 
 ---
 
