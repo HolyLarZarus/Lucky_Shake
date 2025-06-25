@@ -25,8 +25,6 @@
     flutter pub get
 
 3. **Run the app**
-
-   Android:
    ```bash
    flutter run
    
