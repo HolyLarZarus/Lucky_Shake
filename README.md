@@ -26,9 +26,9 @@
 
 3. **Run the app**
 
-Android:
-    ```bash
-    flutter run
+   Android:
+   ```bash
+   flutter run
 
 iOS (macOS only):
     ```bash
