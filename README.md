@@ -25,17 +25,12 @@
     flutter pub get
 
 3. **Run the app**
-
+.
    Android:
    ```bash
    flutter run
-
+.
    iOS (macOS only):
-    ```bash
-    flutter run
-
-⚠️ Ensure you have an emulator or physical device connected. Flutter will auto-detect it.
-
-## 📄 License
-This project is open-source under the MIT License. See the LICENSE file for details.
+   ```bash
+   flutter run
 
