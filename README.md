@@ -30,7 +30,7 @@
    ```bash
    flutter run
 
-iOS (macOS only):
+   iOS (macOS only):
     ```bash
     flutter run
 
