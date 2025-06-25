@@ -30,10 +30,6 @@
    ```bash
    flutter run
    
-   iOS (macOS only):
-   ```bash
-   flutter run
-
 4. **Important Information**
    ⚠️ Ensure you have an emulator or physical device connected. Flutter will auto-detect it.
 
