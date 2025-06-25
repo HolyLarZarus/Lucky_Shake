@@ -6,11 +6,9 @@
 
 ## 🚀 What It Does
 
-- **Shake-to-generate**: Simply shake your phone to generate a set of random numbers.
-- **Configurable sets**: Choose presets (e.g., 6 out of 49) or define your own number count and range.
-- **Cross-platform**: Works on both Android and iOS using Flutter.
-- **Haptic feedback**: Provides optional vibration when numbers are generated.
-
+- **Shake-to-generate**: Simply shake your phone to generate a Luck Cookie text.
+- **Configurable sets**: There are over 300 million possible texts (see "sprüche.dart" for more details).
+- **Cross-platform**: Works on both Android, iOS, Web and Desktop using Flutter.
 ---
 
 ## 🛠️ Installation & Running
